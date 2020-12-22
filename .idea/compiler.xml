@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="user-dashboard" />
+        <module name="user-dashobard-content" />
+        <module name="service-registery-discovery-server" />
+        <module name="user-search-history" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="service-registery-discovery-server" target="11" />
+      <module name="user-dashboard" target="11" />
+      <module name="user-dashobard-content" target="11" />
+      <module name="user-search-history" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="service-registery-discovery-server" options="-parameters" />
+      <module name="user-dashboard" options="-parameters" />
+      <module name="user-dashobard-content" options="-parameters" />
+      <module name="user-search-history" options="-parameters" />
+    </option>
+  </component>
+</project>

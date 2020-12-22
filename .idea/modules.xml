@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/UserDashboardMicroservices.iml" filepath="$PROJECT_DIR$/.idea/UserDashboardMicroservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registery-discovery-server/service-registery-discovery-server.iml" filepath="$PROJECT_DIR$/service-registery-discovery-server/service-registery-discovery-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-dashboard/user-dashboard.iml" filepath="$PROJECT_DIR$/user-dashboard/user-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-dashobard-content/user-dashobard-content.iml" filepath="$PROJECT_DIR$/user-dashobard-content/user-dashobard-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-search-history/user-search-history.iml" filepath="$PROJECT_DIR$/user-search-history/user-search-history.iml" />
+    </modules>
+  </component>
+</project>
