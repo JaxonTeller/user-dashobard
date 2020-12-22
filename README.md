@@ -1,4 +1,4 @@
-# user-dashobard
+# User-Dashobard Microservice Demo
 This example demo the basic of Microservices architecture.
 
 User-Dashboard microservice connects with User-Search-History and user-Dashboard-Content microservices with help of Eureka Server
